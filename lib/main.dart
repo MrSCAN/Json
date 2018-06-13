@@ -56,7 +56,7 @@ class _HomePageState extends State<HomePage> {
                         new Text("Age: " + myData[index]['age']),
                         new Text("Height: " + myData[index]['height']),
                         new Text("Hair Color: " + myData[index]['hair_Color']),
-                        new Text("Gender: " + myData[index]['gender']),
+                        new Text("Your Gender isGender: " + myData[index]['gender']),
                       ],
                     ),
                   );
