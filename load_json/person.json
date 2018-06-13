@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Chinonso Ngwu",
+    "age": "23",
+    "height": "175",
+    "gender": "male",
+    "hair_Color": "black"
+  },
+  {
+    "name": "King em",
+    "age": "25",
+    "height": "160",
+    "gender": "male",
+    "hair_Color": "black"
+  },
+  {
+    "name": "kelechi",
+    "age": "22",
+    "height": "173",
+    "gender": "male",
+    "hair_Color": "redish-brown"
+  },
+  {
+    "name": "Khalina meyers",
+    "age": "18",
+    "height": "180",
+    "gender": "female",
+    "hair_Color": "blond"
+  }
+]
